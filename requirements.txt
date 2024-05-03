@@ -1,0 +1,6 @@
+flask
+vanna[postgres]
+db-dtypes
+python-dotenv
+chromadb
+openai
